@@ -1,0 +1,12 @@
+{
+    "name": "abdurrahim/redis-example",
+    "authors": [
+        {
+            "name": "abdurrahim bulut",
+            "email": "abdurrahim.3078@icloud.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
